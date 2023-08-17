@@ -1,2 +1,3 @@
 # NitidKnotz
-E-commerce website for Boutique
+http://www.nitidknotz.com
+<br>E-commerce website for Boutique
